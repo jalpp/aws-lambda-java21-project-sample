@@ -20,7 +20,7 @@ Note: Not a official documentation, just a documentation/repo for myself so I do
 ## Setup:
 
 - ``git clone https://github.com/jalpp/aws-lambda-java21-project-sample.git ``
-- ``cd aws-lambda-java-project-sample``
+- ``cd aws-lambda-java21-project-sample``
 
 - add custom logic under ``src/main/java/Handler``
 - add required dependencies for the custom login ``/aws-lambda-java-project-sample/pom.xml``
