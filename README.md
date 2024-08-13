@@ -23,7 +23,7 @@ Note: Not a official documentation, just a documentation/repo for myself so I do
 - ``cd aws-lambda-java21-project-sample``
 
 - add custom logic under ``src/main/java/Handler``
-- add required dependencies for the custom login ``/aws-lambda-java-project-sample/pom.xml``
+- add required dependencies for the custom login ``/aws-lambda-java21-project-sample/pom.xml``
 
 ## Project Structure
 
@@ -36,7 +36,7 @@ Note: Not a official documentation, just a documentation/repo for myself so I do
 ## Build:
 
 - run ``` mvn clean ```
-- run ``` mvn package``` which will build a snapshot Jar under ``/aws-lambda-java-project-sample/target/{name}-{version}-SNAPSHOT.jar`` that can be uploaded AWS lambda function page
+- run ``` mvn package``` which will build a snapshot Jar under ``/aws-lambda-java21-project-sample/target/{name}-{version}-SNAPSHOT.jar`` that can be uploaded AWS lambda function page
 
 ## Deploy: 
 
